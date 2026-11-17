@@ -1,0 +1,9 @@
+PASO 1
+
+1. nav a: Afecta a todos los enlaces que se encuentran dentro del elemento nav.
+
+2. nav, a: Afecta a todos los elementos nav y a todos los enlaces a de la página.
+
+3. .l, .o, .v, .e, .r: Afecta a todos los elementos que tengan alguna de esas cinco clases.
+
+4. La propiedad filter permite aplicar efectos visuales a imágenes y otros elementos. Algunos ejemplos son brillo, contraste, desenfoque, escala de grises y saturación. En mis fotografías utilizaría brightness para modificar el brillo, contrast para mejorar el contraste y blur para aplicar desenfoque.
